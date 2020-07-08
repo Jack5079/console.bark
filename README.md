@@ -7,7 +7,7 @@ Inspired by [THIS](https://twitter.com/wesbos/status/1254836059109642240) tweet 
 ## Usage
 
 ```typescript
-import "https://deno.fun/x/console_bark/mod.ts";
+import "https://deno.land/x/console_bark/mod.ts";
 
 console.bark("Woof!");
 
